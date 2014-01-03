@@ -1,0 +1,12 @@
+books
+bin
+lib
+out
+output
+*.txt
+*.pre
+.DS_Store
+.classpath
+.project
+.pydevproject
+.settings/
